@@ -69,5 +69,5 @@ python train.py --colmap_dir data/chair --checkpoint_dir data/chair/checkpoints
 
 ### result
 
-[result after 80 epoch](https://github.com/zhizhuu/Homework/blob/main/%E4%BD%9C%E4%B8%9A4/result2.png)(https://github.com/zhizhuu/Homework/blob/main/%E4%BD%9C%E4%B8%9A4/result1.png)
+[result1 after 80 epoch](https://github.com/zhizhuu/Homework/blob/main/%E4%BD%9C%E4%B8%9A4/result1.png)[result2 after 80 epoch](https://github.com/zhizhuu/Homework/blob/main/%E4%BD%9C%E4%B8%9A4/result2.png)
 
